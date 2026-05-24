@@ -12,119 +12,119 @@
 
 ---
 
-ðŸ‡§ðŸ‡· [PortuguÃªs](#-portuguÃªs) Â· ðŸ‡ºðŸ‡¸ [English](#-english) Â· ðŸ‡µðŸ‡± [Polski](#-polski) Â· ðŸ‡ªðŸ‡¸ [EspaÃ±ol](#-espaÃ±ol)
+🇧🇷 [Português](#-português) · 🇺🇸 [English](#-english) · 🇵🇱 [Polski](#-polski) · 🇪🇸 [Español](#-español)
 
 </div>
 
 ---
 
-## ðŸ‡§ðŸ‡· PortuguÃªs
+## 🇧🇷 Português
 
-### O que Ã© o TibiaVault?
+### O que é o TibiaVault?
 
-TibiaVault Ã© um aplicativo desktop para Windows que centraliza todas as suas contas do Tibia em um Ãºnico lugar. Chega de abrir o celular para copiar o token 2FA â€” o app gera e copia automaticamente o cÃ³digo de 6 dÃ­gitos com um clique.
+TibiaVault é um aplicativo desktop para Windows que centraliza todas as suas contas do Tibia em um único lugar. Chega de abrir o celular para copiar o token 2FA — o app gera e copia automaticamente o código de 6 dígitos com um clique.
 
 ### Funcionalidades
 
-- ðŸ”‘ **TOTP 2FA automÃ¡tico** â€” Gera o token de 6 dÃ­gitos em tempo real, com barra de countdown e cÃ³pia com um clique
-- ðŸ‘¥ **MÃºltiplas contas** â€” Organize quantas contas quiser em um painel Ãºnico
-- ðŸ”’ **100% local** â€” Senhas e tokens nunca saem do seu computador. Sem servidores, sem riscos
-- ðŸ“¥ **Importar do Google Authenticator** â€” Importe suas seeds via QR Code em segundos
-- ðŸ”„ **AtualizaÃ§Ã£o automÃ¡tica** â€” O app avisa quando hÃ¡ uma versÃ£o nova e instala sozinho
+- 🔑 **TOTP 2FA automático** — Gera o token de 6 dígitos em tempo real, com barra de countdown e cópia com um clique
+- 👥 **Múltiplas contas** — Organize quantas contas quiser em um painel único
+- 🔒 **100% local** — Senhas e tokens nunca saem do seu computador. Sem servidores, sem riscos
+- 📥 **Importar do Google Authenticator** — Importe suas seeds via QR Code em segundos
+- 🔄 **Atualização automática** — O app avisa quando há uma versão nova e instala sozinho
 
 ### Download
 
-Acesse [ttoken-bf5ef.web.app](https://ttoken-bf5ef.web.app) ou baixe diretamente na [pÃ¡gina de releases](https://github.com/marcelostuelher/ttoken/releases/latest).
+Acesse [ttoken-bf5ef.web.app](https://ttoken-bf5ef.web.app) ou baixe diretamente na [página de releases](https://github.com/marcelostuelher/ttoken/releases/latest).
 
-> **Teste grÃ¡tis por 10 dias** â€” sem cartÃ£o de crÃ©dito.
+> **Teste grátis por 10 dias** — sem cartão de crédito.
 
-### SeguranÃ§a
+### Segurança
 
-Todos os dados (emails, senhas, seeds 2FA) sÃ£o armazenados em banco de dados **SQLite criptografado** localmente no seu PC. O TibiaVault **nÃ£o possui servidor prÃ³prio** para armazenar credenciais â€” sua conta do Tibia nunca trafega pela internet.
+Todos os dados (emails, senhas, seeds 2FA) são armazenados em banco de dados **SQLite criptografado** localmente no seu PC. O TibiaVault **não possui servidor próprio** para armazenar credenciais — sua conta do Tibia nunca trafega pela internet.
 
 ---
 
-## ðŸ‡ºðŸ‡¸ English
+## 🇺🇸 English
 
 ### What is TibiaVault?
 
-TibiaVault is a Windows desktop application that centralizes all your Tibia accounts in one place. No more grabbing your phone to copy the 2FA token â€” the app generates and copies the 6-digit code automatically with a single click.
+TibiaVault is a Windows desktop application that centralizes all your Tibia accounts in one place. No more grabbing your phone to copy the 2FA token — the app generates and copies the 6-digit code automatically with a single click.
 
 ### Features
 
-- ðŸ”‘ **Automatic TOTP 2FA** â€” Generates the 6-digit token in real time, with a countdown bar and one-click copy
-- ðŸ‘¥ **Multiple accounts** â€” Organize as many accounts as you want in a single dashboard
-- ðŸ”’ **100% local** â€” Passwords and tokens never leave your computer. No servers, no risks
-- ðŸ“¥ **Google Authenticator import** â€” Import your seeds via QR Code in seconds
-- ðŸ”„ **Auto-update** â€” The app notifies you when a new version is available and installs it automatically
+- 🔑 **Automatic TOTP 2FA** — Generates the 6-digit token in real time, with a countdown bar and one-click copy
+- 👥 **Multiple accounts** — Organize as many accounts as you want in a single dashboard
+- 🔒 **100% local** — Passwords and tokens never leave your computer. No servers, no risks
+- 📥 **Google Authenticator import** — Import your seeds via QR Code in seconds
+- 🔄 **Auto-update** — The app notifies you when a new version is available and installs it automatically
 
 ### Download
 
 Visit [ttoken-bf5ef.web.app](https://ttoken-bf5ef.web.app) or download directly from the [releases page](https://github.com/marcelostuelher/ttoken/releases/latest).
 
-> **Free 10-day trial** â€” no credit card required.
+> **Free 10-day trial** — no credit card required.
 
 ### Security
 
-All data (emails, passwords, 2FA seeds) is stored in a **locally encrypted SQLite database** on your PC. TibiaVault has **no external server** for storing credentials â€” your Tibia account data never travels over the internet.
+All data (emails, passwords, 2FA seeds) is stored in a **locally encrypted SQLite database** on your PC. TibiaVault has **no external server** for storing credentials — your Tibia account data never travels over the internet.
 
 ---
 
-## ðŸ‡µðŸ‡± Polski
+## 🇵🇱 Polski
 
 ### Czym jest TibiaVault?
 
-TibiaVault to aplikacja desktopowa dla systemu Windows, ktÃ³ra centralizes wszystkie Twoje konta Tibia w jednym miejscu. Koniec z siÄ™ganiem po telefon, Å¼eby skopiowaÄ‡ kod 2FA â€” aplikacja generuje i kopiuje 6-cyfrowy kod automatycznie jednym klikniÄ™ciem.
+TibiaVault to aplikacja desktopowa dla systemu Windows, która centralizes wszystkie Twoje konta Tibia w jednym miejscu. Koniec z sięganiem po telefon, żeby skopiować kod 2FA — aplikacja generuje i kopiuje 6-cyfrowy kod automatycznie jednym kliknięciem.
 
 ### Funkcje
 
-- ðŸ”‘ **Automatyczny TOTP 2FA** â€” Generuje 6-cyfrowy token w czasie rzeczywistym z paskiem odliczania i kopiowaniem jednym klikniÄ™ciem
-- ðŸ‘¥ **Wiele kont** â€” ZarzÄ…dzaj dowolnÄ… liczbÄ… kont w jednym panelu
-- ðŸ”’ **100% lokalnie** â€” HasÅ‚a i tokeny nigdy nie opuszczajÄ… Twojego komputera. Bez serwerÃ³w, bez ryzyka
-- ðŸ“¥ **Import z Google Authenticator** â€” Importuj swoje seeds przez QR Code w kilka sekund
-- ðŸ”„ **Automatyczna aktualizacja** â€” Aplikacja powiadamia o nowej wersji i instaluje jÄ… automatycznie
+- 🔑 **Automatyczny TOTP 2FA** — Generuje 6-cyfrowy token w czasie rzeczywistym z paskiem odliczania i kopiowaniem jednym kliknięciem
+- 👥 **Wiele kont** — Zarządzaj dowolną liczbą kont w jednym panelu
+- 🔒 **100% lokalnie** — Hasła i tokeny nigdy nie opuszczają Twojego komputera. Bez serwerów, bez ryzyka
+- 📥 **Import z Google Authenticator** — Importuj swoje seeds przez QR Code w kilka sekund
+- 🔄 **Automatyczna aktualizacja** — Aplikacja powiadamia o nowej wersji i instaluje ją automatycznie
 
 ### Pobierz
 
-OdwiedÅº [ttoken-bf5ef.web.app](https://ttoken-bf5ef.web.app) lub pobierz bezpoÅ›rednio ze [strony releases](https://github.com/marcelostuelher/ttoken/releases/latest).
+Odwiedź [ttoken-bf5ef.web.app](https://ttoken-bf5ef.web.app) lub pobierz bezpośrednio ze [strony releases](https://github.com/marcelostuelher/ttoken/releases/latest).
 
-> **BezpÅ‚atny 10-dniowy okres prÃ³bny** â€” bez karty kredytowej.
+> **Bezpłatny 10-dniowy okres próbny** — bez karty kredytowej.
 
-### BezpieczeÅ„stwo
+### Bezpieczeństwo
 
-Wszystkie dane (e-maile, hasÅ‚a, seeds 2FA) sÄ… przechowywane w **lokalnie szyfrowanej bazie danych SQLite** na Twoim komputerze. TibiaVault **nie posiada zewnÄ™trznego serwera** do przechowywania danych logowania.
+Wszystkie dane (e-maile, hasła, seeds 2FA) są przechowywane w **lokalnie szyfrowanej bazie danych SQLite** na Twoim komputerze. TibiaVault **nie posiada zewnętrznego serwera** do przechowywania danych logowania.
 
 ---
 
-## ðŸ‡ªðŸ‡¸ EspaÃ±ol
+## 🇪🇸 Español
 
-### Â¿QuÃ© es TibiaVault?
+### ¿Qué es TibiaVault?
 
-TibiaVault es una aplicaciÃ³n de escritorio para Windows que centraliza todas tus cuentas de Tibia en un solo lugar. OlvÃ­date de agarrar el telÃ©fono para copiar el token 2FA â€” la app genera y copia el cÃ³digo de 6 dÃ­gitos automÃ¡ticamente con un solo clic.
+TibiaVault es una aplicación de escritorio para Windows que centraliza todas tus cuentas de Tibia en un solo lugar. Olvídate de agarrar el teléfono para copiar el token 2FA — la app genera y copia el código de 6 dígitos automáticamente con un solo clic.
 
-### CaracterÃ­sticas
+### Características
 
-- ðŸ”‘ **TOTP 2FA automÃ¡tico** â€” Genera el token de 6 dÃ­gitos en tiempo real, con barra de cuenta regresiva y copia con un clic
-- ðŸ‘¥ **MÃºltiples cuentas** â€” Organiza tantas cuentas como quieras en un panel Ãºnico
-- ðŸ”’ **100% local** â€” Las contraseÃ±as y tokens nunca salen de tu computadora. Sin servidores, sin riesgos
-- ðŸ“¥ **Importar desde Google Authenticator** â€” Importa tus seeds vÃ­a QR Code en segundos
-- ðŸ”„ **ActualizaciÃ³n automÃ¡tica** â€” La app te avisa cuando hay una nueva versiÃ³n y la instala automÃ¡ticamente
+- 🔑 **TOTP 2FA automático** — Genera el token de 6 dígitos en tiempo real, con barra de cuenta regresiva y copia con un clic
+- 👥 **Múltiples cuentas** — Organiza tantas cuentas como quieras en un panel único
+- 🔒 **100% local** — Las contraseñas y tokens nunca salen de tu computadora. Sin servidores, sin riesgos
+- 📥 **Importar desde Google Authenticator** — Importa tus seeds vía QR Code en segundos
+- 🔄 **Actualización automática** — La app te avisa cuando hay una nueva versión y la instala automáticamente
 
 ### Descarga
 
-Visita [ttoken-bf5ef.web.app](https://ttoken-bf5ef.web.app) o descarga directamente desde la [pÃ¡gina de releases](https://github.com/marcelostuelher/ttoken/releases/latest).
+Visita [ttoken-bf5ef.web.app](https://ttoken-bf5ef.web.app) o descarga directamente desde la [página de releases](https://github.com/marcelostuelher/ttoken/releases/latest).
 
-> **Prueba gratuita de 10 dÃ­as** â€” sin tarjeta de crÃ©dito.
+> **Prueba gratuita de 10 días** — sin tarjeta de crédito.
 
 ### Seguridad
 
-Todos los datos (emails, contraseÃ±as, seeds 2FA) se almacenan en una **base de datos SQLite cifrada localmente** en tu PC. TibiaVault **no tiene servidor externo** para almacenar credenciales â€” tus datos de cuenta de Tibia nunca viajan por internet.
+Todos los datos (emails, contraseñas, seeds 2FA) se almacenan en una **base de datos SQLite cifrada localmente** en tu PC. TibiaVault **no tiene servidor externo** para almacenar credenciales — tus datos de cuenta de Tibia nunca viajan por internet.
 
 ---
 
 <div align="center">
 
-**TibiaVault** Â· [Website](https://ttoken-bf5ef.web.app) Â· [Releases](https://github.com/marcelostuelher/ttoken/releases)
+**TibiaVault** · [Website](https://ttoken-bf5ef.web.app) · [Releases](https://github.com/marcelostuelher/ttoken/releases)
 
 *Built by players, for players.*
 
